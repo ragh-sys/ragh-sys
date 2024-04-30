@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ragh-sys
 - 👀 I’m interested in ... programming 
 - 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...team projects
 - 📫 How to reach me ... raghni.stephenson29@gmail.com
 - 😄 Pronouns: ...him/he
 - ⚡ Fun fact: ... google generative AI hackathon 
